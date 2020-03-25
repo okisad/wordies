@@ -20,6 +20,6 @@ class WordCrawlerServiceTest {
 
     @Test
     void getWord() throws IOException {
-        wordCrawlerService.getWord("drift");
+        wordCrawlerService.getWord("measure");
     }
 }
